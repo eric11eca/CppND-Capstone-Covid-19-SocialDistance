@@ -39,10 +39,9 @@ The project satisfies the following rubric points:
 ## Installation & Usage
 1. git clone https://github.com/eric11eca/CppND-Capstone-Covid-19-SocialDistance.git
 2. make build
-3. ./SocialDistance --video=../data/walk.mp4
+3. bash model/model.sh
+5. cd build
+4. ./SocialDistance --video=../data/walk.mp4
 
 ## Clean
 1. make clean
-
-
-
