@@ -4,6 +4,8 @@ This is a repo for Capstone project in the [Udacity C++ Nanodegree Program](http
 
 As Covid-19 cases rapidly growing, it is important for people to keey safe distance during public gathering. This project is a real-time automated social distance monitoring system built with Yolov3 and OpenCV.
 
+![Covid-19 Social Distance Monitoring](https://github.com/eric11eca/CppND-Capstone-Covid-19-SocialDistance/blob/master/covid_distance.png?raw=true)
+
 The project satisfies the following rubric points:
 1. The submission must compile and run.
 2. The project demonstrates an understanding of C++ functions and control structures.
